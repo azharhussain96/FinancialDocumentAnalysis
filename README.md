@@ -1,4 +1,4 @@
-# FinancialDocumentAnalysis
+# Financial Document Analysis
 Based on Quantopian code of Lucy Wu
 
 Built by Azhar Hussain and Elliot Adams
